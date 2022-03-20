@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr. Thomas Delahunty 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Education
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Maynooth University
+  url: https://www.maynoothuniversity.ie/people/thomas-delahunty
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests are primarily focused on STEM education and general education across all levels of schooling. I am particualrly interested in the psychological aspects of problem solving and how presage variables impacts these abilities and learners' identities. 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Education and STEM
+- Quant-crit research methods 
+- Presage variables
+- Critical theory
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc. in Psychology
+    institution: University of Derby
+    year: 2021
+  - course: PhD in Education
+    institution: University of Limerick
+    year: 2014
+  - course: B.Tech (Ed) in Materials and Engineering Technology
+    institution: University of Limerick
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,8 +71,10 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Tom Delahunty (PhD, MSc. Psych, B.Tech(ed), CPsychol)  joined the Department of Education in Maynooth in January 2022. He has previously held academic posts at the University of Birmingham, University College Cork, University of Nebraska-Lincoln and the University of Limerick. Tom has worked across psychology and education programmes in his career to date but has a keen interest in teacher education and STEM areas. He holds dual qualifications as a second-level teacher and psychologist and is a chartered member of the British Psychological Society.
+ 
+Tom teaches across the suite of programmes in the department, in particular the BSc. Education programmes (Mathematics, Science & Computer Science) as well as the Professional Masters in education and doctoral programmes (PhD and EDD).
+ 
+Tom’s core research interests lie in the areas of STEM education across all levels of schooling, where he is particularly interested in issues of equality (e.g. gender) as well as the interaction of presage variables with mathematics performance and identity. He also has core interests in the psychology of problem solving and in particular how cognitive processes of conceptualisation and representation affect performance in mathematics and science. He actively researches in the broad area of teacher education and is committed to critical analysis of policy as it applies to practice and identity formation/change in teaching and learning contexts. In addition to these core areas, he actively promotes critical approaches to quantitative and educational research and has an emerging interest in how issues of power and neoliberalism interact with research practices and discourses in the field.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
