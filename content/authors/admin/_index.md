@@ -14,7 +14,7 @@ organizations:
   url: https://www.maynoothuniversity.ie/people/thomas-delahunty
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are primarily focused on STEM education and general education across all levels of schooling. I am particualrly interested in the psychological aspects of problem solving and how presage variables impacts these abilities and learners' identities. 
+bio: My research interests are primarily focused on STEM education and general education across all levels of schooling. I am also particualrly interested in research methods such as quant-crit as well as challenging issues of neoliberalism and colonialism and the manners in which they may disenfranchise certain populations. 
 
 # Interests to show in About widget
 interests:
@@ -29,6 +29,9 @@ education:
   - course: MSc. in Psychology
     institution: University of Derby
     year: 2021
+  - course: Chartered Psychologist
+    institution: British Psychological Society
+    year: 2020
   - course: PhD in Education
     institution: University of Limerick
     year: 2014
@@ -60,6 +63,15 @@ social:
   icon_pack: ai
   link: https://publons.com/researcher/1311925/thomas-delahunty/
 - icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-7365-8757
+
+
+
+
+
+
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
