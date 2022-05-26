@@ -25,7 +25,7 @@ experience:
   - title: Assistant Professor in Education
     company: Maynooth University
     company_url: www.maynoothuniversity.ie
-    company_logo: 
+    company_logo: mayAsset
     location: Ireland
     date_start: '2022-01-01'
     date_end: ''
