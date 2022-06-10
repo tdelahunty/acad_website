@@ -39,7 +39,7 @@ experience:
         
   - title: Lecturer in Educational Psychology
     company: University of Birmingham
-    company_url: https://www.birmingham.ac.uk/
+    company_url: www.birmingham.ac.uk/
     company_logo: Asset1
     location: Birmingham, United Kingdom
     date_start: '2021-02-01'
