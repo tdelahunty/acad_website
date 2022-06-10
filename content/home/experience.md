@@ -40,7 +40,7 @@ experience:
   - title: Lecturer in Educational Psychology
     company: University of Birmingham
     company_url: ''
-    company_logo: uob.svg
+    company_logo: uob-01.svg
     location: Birmingham, United Kingdom
     date_start: '2021-02-01'
     date_end: '2021-12-31'
@@ -49,7 +49,7 @@ experience:
   - title: Lecturer in Education
     company: University College Cork
     company_url: ''
-    company_logo: ucc.svg
+    company_logo: ucc-01.svg
     location: Cork City, Ireland
     date_start: '2018-10-01'
     date_end: '2020-10-01'
