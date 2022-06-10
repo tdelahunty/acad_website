@@ -44,7 +44,8 @@ experience:
     location: Birmingham, United Kingdom
     date_start: '2021-02-01'
     date_end: '2021-12-31'
-    description: Lecturer and acting programme director for BSc. Psychology of Education
+    description: |2-
+      Lecturer and acting programme director for BSc. Psychology of Education
 
  - title: Lecturer in Education
     company: University College Cork
@@ -53,7 +54,8 @@ experience:
     location: Cork City, Ireland
     date_start: '2018-10-01'
     date_end: '2020-10-01'
-    description: Lecturer on PME, Structured PhD and M.Ed programmes in the School of Education. 
+    description: |2-
+      Lecturer on PME, Structured PhD and M.Ed programmes in the School of Education. 
 
 design:
   columns: '2'
