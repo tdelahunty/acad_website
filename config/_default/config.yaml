@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Tom Delahunty's Website # Website name
+title: Tom Delahunty # Website name
 baseURL: 'https://tom-del.com/' # Website URL
 
 ############################
