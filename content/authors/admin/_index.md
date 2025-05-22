@@ -14,14 +14,15 @@ organizations:
   url: https://www.maynoothuniversity.ie/people/thomas-delahunty
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are primarily focused on STEM education and general education across all levels of schooling. I am also particualrly interested in research methods such as quant-crit as well as challenging issues of neoliberalism and colonialism and the manners in which they may disenfranchise certain populations. 
+bio: My research interests lie primarily in critical psychology and sociology with a focus on issues of inequality within public education. I research in areas such as educational policy and politics as well as write about issues in the field of cultural criticism. 
 
 # Interests to show in About widget
 interests:
-- Education and STEM
+- Public Education
 - Quant-crit research methods 
 - Presage variables
-- Critical theory
+- Gender
+- Critical theory and decoloniality
 
 # Education to show in About widget
 education:
@@ -46,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:thomas.delahunty@mu.ie
+  link: thomas.delahunty@mu.ie
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tom_dela
@@ -87,10 +88,10 @@ email: ""
 highlight_name: true
 ---
 
-Dr. Tom Delahunty (PhD, MSc. Psych, B.Tech(ed), CPsychol)  joined the Department of Education in Maynooth in January 2022. He has previously held academic posts at the University of Birmingham, University College Cork, University of Nebraska-Lincoln and the University of Limerick. Tom has worked across psychology and education programmes in his career to date but has a keen interest in teacher education and STEM areas. He holds dual qualifications as a second-level teacher and psychologist and is a chartered member of the British Psychological Society.
+Tom Delahunty (PhD, MSc. Psych, B.Tech(ed), CPsychol) is an academic in the Department of Education at Maynooth University in Ireland. He has previously held academic posts at the University of Birmingham, University College Cork, University of Nebraska-Lincoln and the University of Limerick. Tom has worked across psychology and education programmes in his career to date but has a keen interest in teacher education and STEM areas. He holds dual qualifications as a second-level teacher and psychologist and is a chartered member of the British Psychological Society.
  
-Tom teaches across the suite of programmes in the department, in particular the BSc. Education programmes (Mathematics, Science & Computer Science) as well as the Professional Masters in education and doctoral programmes (PhD and EDD).
+Tom currently teaches across several programmes in the department in areas such as psychology abd sociology of education, teacher education, and doctoral studies (PhD and EDD programmes). He actively supervises doctoral candidates and presently has students working on topics such as gender inequality in mathematics education, relationships and sexuality education, critical curricular studies, and teacher diversity. He welcomes potential PhD candidates interested in researching policy, inequalities, gender, and social justice using critical methods and theory.
  
-Tom’s core research interests lie in the areas of STEM education across all levels of schooling, where he is particularly interested in issues of equality (e.g. gender) as well as the interaction of presage variables with mathematics performance and identity. He also has core interests in the psychology of problem solving and in particular how cognitive processes of conceptualisation and representation affect performance in mathematics and science. He actively researches in the broad area of teacher education and is committed to critical analysis of policy as it applies to practice and identity formation/change in teaching and learning contexts. In addition to these core areas, he actively promotes critical approaches to quantitative and educational research and has an emerging interest in how issues of power and neoliberalism interact with research practices and discourses in the field.
+Tom has published extensively in peer-reviewed journal outlets, book chapters, conferences and other professional publications and holds a number of active research grants from the EU and Research Ireland. He is also a co-editor of Irish Educational Studies, which is the foremost peer-reviewed publication in the Irish context with an international audience.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
