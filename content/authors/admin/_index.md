@@ -92,6 +92,6 @@ Tom Delahunty (PhD, MSc. Psych, B.Tech(ed), CPsychol) is an academic in the Depa
  
 Tom currently teaches across several programmes in the department in areas such as psychology abd sociology of education, teacher education, and doctoral studies (PhD and EDD programmes). He actively supervises doctoral candidates and presently has students working on topics such as gender inequality in mathematics education, relationships and sexuality education, critical curricular studies, and teacher diversity. He welcomes potential PhD candidates interested in researching policy, inequalities, gender, and social justice using critical methods and theory.
  
-Tom has published extensively in peer-reviewed journal outlets, book chapters, conferences and other professional publications and holds a number of active research grants from the EU and Research Ireland. He is also a co-editor of Irish Educational Studies, which is the foremost peer-reviewed publication in the Irish context with an international audience.
+Tom has published extensively in peer-reviewed journal outlets, book chapters, conferences and other professional publications and holds a number of active research grants from the EU and Research Ireland. He is also a co-editor of Irish Educational Studies, which is the foremost peer-reviewed publication in the Irish context with an international audiences.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
