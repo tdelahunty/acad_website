@@ -47,10 +47,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: thomas.delahunty@mu.ie
+  link: mailto:thomas.delahunty@mu.ie
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tom_dela
+- icon: bluesky
+  icon_pack: fas
+  link: https://bsky.app/profile/tdelahunty.bsky.social
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=_0LyjvEAAAAJ&hl=en
