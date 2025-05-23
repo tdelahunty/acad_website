@@ -48,8 +48,8 @@ experience:
   
   - title: Lecturer in Education
     company: University College Cork
-    company_url: ''
-    company_logo: uccAsset.svg
+    company_url: 'www.ucc.ie'
+    company_logo: ucc.svg
     location: Cork City, Ireland
     date_start: '2018-10-01'
     date_end: '2020-10-01'
