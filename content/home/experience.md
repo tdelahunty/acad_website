@@ -32,8 +32,8 @@ experience:
     description: |2-
         Duties include:
         
-        * Programme Leader for BSc. in Education (Years 1 & 2)
-        * Member of the research committee
+        * Programme Leader for BSc. in Education
+        * Member of the research committee for Faculty of Social Sciences
         * Lecture on undergraduate and postgraduate programmes across the Department of Education
         * Doctoral supervisor (EDD & PhD)
         
@@ -49,11 +49,20 @@ experience:
   - title: Lecturer in Education
     company: University College Cork
     company_url: ''
-    company_logo: 
+    company_logo: uccAsset.png
     location: Cork City, Ireland
     date_start: '2018-10-01'
     date_end: '2020-10-01'
     description: Lecturer on PME, Structured PhD and M.Ed programmes in the School of Education. 
+  
+  - title: Senior Research Fellow
+    company: University of Nebraska-Lincoln
+    company_logo: 
+    location: Lincoln, Nebraska, USA
+    date_start: '2016-01-01'
+    date_end: '2018-10-01'
+    description: Senior research fellow on NSF funded multi-institutional project. Co-PI and project manager duties. 
+
 
 design:
   columns: '2'
