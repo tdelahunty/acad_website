@@ -52,7 +52,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/tom_dela
 - icon: bluesky
-  icon_pack: fas
+  icon_pack: fab
   link: https://bsky.app/profile/tdelahunty.bsky.social
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
