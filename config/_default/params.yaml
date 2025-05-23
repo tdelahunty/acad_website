@@ -106,3 +106,9 @@ extensions:
     enable: true
   academicons:
     enable: true
+  icon:
+    pack:
+      ai: true
+      brands: true
+      far: true
+      fab: true
