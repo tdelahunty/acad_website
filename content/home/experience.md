@@ -40,7 +40,7 @@ experience:
   - title: Lecturer in Educational Psychology
     company: University of Birmingham
     company_url: www.birmingham.ac.uk/
-    company_logo: uobArtboard
+    company_logo: uob2
     location: Birmingham, United Kingdom
     date_start: '2021-02-01'
     date_end: '2021-12-31'
@@ -49,7 +49,7 @@ experience:
   - title: Lecturer in Education
     company: University College Cork
     company_url: 'www.ucc.ie'
-    company_logo: 
+    company_logo: ucc2
     location: Cork City, Ireland
     date_start: '2018-10-01'
     date_end: '2020-10-01'
@@ -57,7 +57,7 @@ experience:
   
   - title: Senior Research Fellow
     company: University of Nebraska-Lincoln
-    company_logo: 
+    company_logo: neb
     location: Lincoln, Nebraska, USA
     date_start: '2016-01-01'
     date_end: '2018-10-01'
