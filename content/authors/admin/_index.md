@@ -51,8 +51,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tom_dela
-- icon: bluesky
-  icon_pack: fab
+- icon: <i class="fa-brands fa-bluesky"></i>
+  icon_pack:
   link: https://bsky.app/profile/tdelahunty.bsky.social
 - icon: linkedin
   icon_pack: fab
