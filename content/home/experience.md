@@ -62,6 +62,22 @@ experience:
     date_start: '2016-01-01'
     date_end: '2018-10-01'
     description: Senior research fellow on NSF funded multi-institutional project. Co-PI and project manager duties. 
+  
+  - title: Lecturer
+    company: University of Limerick
+    company_logo: UL
+    location: Limerick, Ireland
+    date_start: '2014-09-01'
+    date_end: '2016-01-01'
+    description: Lecturer in education on undergraduate and postgraduate teacher education programmes
+  
+  - title: Teaching Assistant/Assistant Lecturer
+    company: University of Limerick
+    company_logo: UL
+    location: Limerick, Ireland
+    date_start: '2011-08-01'
+    date_end: '2014-06-01'
+    description: Teaching on teacher education undergraduate and postgraduate programmes, primarily in technology education
 
 
 design:
