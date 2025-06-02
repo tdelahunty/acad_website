@@ -52,7 +52,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/tom_dela
 - icon: bluesky
-  icon_pack: fa-brands
+  icon_pack: fab
   link: https://bsky.app/profile/tdelahunty.bsky.social
 - icon: linkedin
   icon_pack: fab
